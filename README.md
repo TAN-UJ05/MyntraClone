@@ -101,7 +101,7 @@ Click **Add to Cart** on a product:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourGitHubUsername/myntra-clone.git
+git clone https://github.com/TAN-UJ05/MyntraClone.git
 ```
 
 2. Open `index.html` in a browser  
